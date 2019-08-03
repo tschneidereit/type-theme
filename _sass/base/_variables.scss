@@ -9,29 +9,30 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #fff;
-$background-color: #fff;
+$brand-color: #005CA5;
+$background-color: #005CA5;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #383838;
-$link-color: #1ABC9C;
-$selection-color: #D4D4D4; // visible when highlighting text
+$headings-color: white;
+$text-color: #C2D5E0;
+$link-color: #fcfcff;
+// $selection-color: #D4D4D4; // visible when highlighting text
 
 // Tags color
-$tags-color: #b0b0b0;
+$tags-color: #fcfcff;
 
 //Search color
-$search-color: #999;
+$search-color: #fcfcff;
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #C2D5E0;
 
 // Feature image for articles
 $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: #1ABC9C;
-$header-desc-text-color: #FFF;
-$header-desc-link-color: #02453D;
+$header-desc-background-color: #005CA5;
+$header-desc-text-color: #C2D5E0;
+$header-desc-link-color: #fcfcff;
